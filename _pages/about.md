@@ -1,49 +1,141 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hangliang Ding"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<h2 class="col">
+<font color=blue>About Me</font>
+</h2>
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hey there! I’m Hangliang Ding, fourth year undergraduate student at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(THU) in the past.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research interests focus on building **efficient** and **reliable** ML systems through system and algorithm co-design, focusing on efficiency, reliability, and scalability. Also,  I aim to explore **real-world applications**, making these systems truly impactful and accessible for humans. Recently, I am actively looking into (M)LLM / Diffusion model efficiency challenges and system bottlenecks.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I'm always excited to exchange ideas and collaborate on research! Whether you have questions about my work or want to explore potential collaborations, please do not hesitate to contact me via email at any time.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #52ADC8; text-decoration: none; border-bottom: 1px solid #52ADC8;">pianoqwz@gmail.com</a>.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<h2 class="col">
+<font color=blue>News</font>
+</h2>
 
-**Markdown generator**
+- 2024-12 Release <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a> the first open-source distillation recipes for video DiT.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- 2024-11 Introducing <a href="https://arxiv.org/abs/2411.18077" style="color: #52ADC8; text-decoration: underline;">MiniKV</a>, an efficient 2-bit layerwise <i>KV cache</i> compression framework.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<h2 class="col">
+<font color=blue>Academic Experiences</font>
+</h2>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<div style="display: flex; align-items: center;">
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div style="flex-shrink: 0; margin-right: 20px;">
+
+<img src="../images/vdit.png" alt="Efficient-vDiT Illustration" style="max-width: 300px;">
+
+</div>
+
+<div>
+
+<h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+
+Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile
+
+</h3>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+<b>H. Ding</b>*, D. Li*, R. Su, Z. Deng, I. Stoica, H. Zhang
+
+</div>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+We discover <b><i>Attention Tile</i></b> pattern in 3D-DiT and develop an efficient video diffusion pipeline that achieves 7.8× speedup on single GPU through <b>block-sparse kernel</b> and consistency <b>distillation</b>.
+
+</div>
+
+</div>
+
+</div>
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex-shrink: 0; margin-right: 20px;">
+
+<img src="../images/minikv.png" alt="MiniKV Illustration" style="max-width: 300px;">
+
+</div>
+
+<div>
+
+<h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+
+MiniKV: 2-Bit Layer-Discriminative KV Cache Compression
+
+</h3>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
+
+</div>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+<b>MiniKV</b> introduces a layer-discriminative framework that achieves 86% KV cache compression using <b>2-bit</b> quantization and specialized CUDA <b>cumulated attention kernels</b>, while maintaining 98.5% accuracy.
+
+</div>
+
+<div style="font-size: 14px; margin-top: 10px;">
+
+
+<a href="https://arxiv.org/abs/2411.18077" style="text-decoration: none; color: #52ADC8;">Arxiv</a> available.
+
+</div>
+
+</div>
+
+</div>
+
+<h2 class="col">
+<font color=blue>Open-source Project</font>
+</h2>
+
+<div class="section-text col-right">
+<h3><a href="#" style="text-decoration: none;"><span class="emph">FastVideo: Accelerate Video Diffusion Model Generation</span></a></h3>
+</div>
+
+<ul>
+    <li>Project: <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a>, <img src="https://img.shields.io/github/stars/hao-ai-lab/FastVideo?style=social" alt="AgentBench stars">
+    <li> First open distillation recipes for video DiT and support distilling and finetuning for state-of-the-art open video DiTs. </li>
+    <li> Scalable training with FSDP, sequence parallelism, and selective activation checkpointing, with near linear scaling to 64 GPUs.</li>
+    <li> Memory efficient finetuning with LoRA, precomputed latent, and precomputed text embeddings.</li>
+    </li>
+</ul>
+
+<div class="section-text col-right">
+<h3><a href="#" style="text-decoration: none;"><span class="emph">AgentBench: Evaluating LLMs as Agents</span></a></h3>
+</div>
+
+<ul>
+    <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #52ADC8; text-decoration: underline;">AgentBench</a>, <strong>ICLR 2024</strong>, <img src="https://img.shields.io/github/stars/THUDM/Agentbench?style=social" alt="AgentBench stars">
+    <li>Classify real-world browsing options and design auto-collected browsing traces data framework, building a more efficient language model-driven automated web navigation agent.</li>
+    </li>
+</ul>
+
+<h2 class="col">
+<font color=blue>Hobbies</font>
+</h2>
+
+<ul>
+    <li>Guitar. I am the lead guitarist of Susu (素数), a math rock band active in Beijing. Check out our recent <a href="https://www.bilibili.com/video/BV1Lqi6YqExg/" style="color: #52ADC8; text-decoration: underline;">live performance</a> at Susu Lab.</li>
+    <li>Pingong. I am a member and referee of our department's ping pong team.</li>
+</ul>
+
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=0e1633&w=300&t=n&d=BaGflHS_b6UVarU47t3FocXlpffDkn4PhjcsiJi4FzQ&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script>

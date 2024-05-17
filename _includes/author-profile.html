@@ -152,7 +152,14 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+      {% if author.wechat %}
+        <li>
+          <a href="{{ base_path }}/images/{{ author.wechat }}">
+            <i class="fab fa-fw fa-weixin icon-pad-right" aria-hidden="true"></i>WeChat
+          </a>
+        </li>
+      {% endif %}
     </ul>
   </div>
 </div>
