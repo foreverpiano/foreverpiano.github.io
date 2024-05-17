@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from Mechanis, [Tsinghua University](https://www.tsinghua.edu.cn/). 
+I'm a third year undergraduate student from Mechanics, [Tsinghua University](https://www.tsinghua.edu.cn/). 
 
 My current research interest includes building stabel and scalable system for LLMs.
 
