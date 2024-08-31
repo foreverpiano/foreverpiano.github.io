@@ -41,5 +41,13 @@ Feel free to drop me an e-mail if you want to chat with me!  `pianoqwz@qq.com`
     <li>This project made me realize the importance of long-text performance of large models in real-world agent applications, which has since become the focus of my research.</li>
 </ul>
 
+<h2 class="col">
+<font color=blue>Hobbies</font>
+</h2>
+
+<ul>
+    <li>Ping Pong. I am a member and referee of our department's ping pong team.</li>
+    <li>Playing Guitar. I play both electric and acoustic guitar and enjoy various styles of music, including RnB, Soul, Jazz, ... I am a fan of Stevie Wonder and Mateus Asato.</li>
+</ul>
 
 ()
