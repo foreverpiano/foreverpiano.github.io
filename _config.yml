@@ -29,7 +29,6 @@ author:
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "pianoqwz@gmail.com" 
-  wechat           : "wewchat-qrcode.jpg"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -73,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : "https://www.zhihu.com/people/foreverpiano"
+  wechat           : "wechat-qrcode.jpg"
 
 
 # Site Settings
