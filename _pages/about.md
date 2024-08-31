@@ -1,16 +1,45 @@
 ---
 permalink: /
-title: "About me"
+title: "Hangliang Ding"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from Mechanics, [Tsinghua University](https://www.tsinghua.edu.cn/). 
+<h2 class="col">
+<font color=blue>Biography</font>
+</h2>
 
-My current research interest includes building stable and scalable system for LLMs.
+I'm a fourth year undergraduate student major in theoretical and applied mechanics from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>.  I am also an applicant for the 2025 Fall Ph.D. program in Computer Science. 
 
-I am very fortunate to be advised by [Prof. Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) of THU KEG Lab from [School of Computer Science](https://www.cs.tsinghua.edu.cn/), Tsinghua University and by [Prof. Yi Wu](https://jxwuyi.weebly.com/) from [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University.
+I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(HUST) in the past.
 
-[Email](pianoqwz@gmail.com) / [Github](https://github.com/foreverpiano) / [Zhihu](https://www.zhihu.com/people/foreverpiano)
+My research focuses on building hardware-efficient and reliable machine learning systems, specifically in the following topics:
+<ul>
+    <li>Efficient DiT model in training and inference.</li>
+    <li>Efficient inference for large language models with sparsity and quantization method.</li>
+    <li>Efficient serving system for large foundation models</li>
+</ul>
+
+Feel free to drop me an e-mail if you want to chat with me!  `pianoqwz@qq.com`
+
+<h2 class="col">
+<font color=blue>Open project</font>
+</h2>
+
+<!-- 1 -->
+<div class="section-text col-right">
+<h3><a href="https://github.com/THUDM/AgentBench" style="text-decoration: none;"><span class="emph">AgentBench: Evaluating LLMs as Agents</span></a></h3>
+</div>
+
+<div><a href="#" style="text-decoration: none;">@Intern at Zhipu AI</a>
+</div>
+
+<ul>
+    <li>Project: AgentBench, 200+ citations, 2k+ stars</li>
+    <li>This project made me realize the importance of long-text performance of large models in real-world agent applications, which has since become the focus of my research.</li>
+</ul>
+
+
+()
