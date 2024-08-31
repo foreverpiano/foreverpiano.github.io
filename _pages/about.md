@@ -37,7 +37,7 @@ Feel free to drop me an e-mail if you want to chat with me!  `pianoqwz@gmail.com
 </div>
 
 <ul>
-    <li>Project: AgentBench, 200+ citations, 2k+ stars</li>
+    <li>Project: AgentBench, ICLR 2024, 2k+ stars</li>
     <li>This project made me realize the importance of long-text performance of large models in real-world agent applications, which has since become the focus of my research.</li>
 </ul>
 
