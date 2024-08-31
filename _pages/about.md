@@ -13,16 +13,16 @@ redirect_from:
 
 I'm a fourth year undergraduate student major in theoretical and applied mechanics from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>.  I am also an applicant for the 2025 Fall Ph.D. program in Computer Science. 
 
-I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(HUST) in the past.
+I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(THU) in the past.
 
-My research focuses on building hardware-efficient and reliable machine learning systems, specifically in the following topics:
+My research interest focuses on building hardware-efficient and reliable machine learning systems, specifically in the following topics:
 <ul>
     <li>Efficient DiT model in training and inference.</li>
     <li>Efficient inference for large language models with sparsity and quantization method.</li>
     <li>Efficient serving system for large foundation models</li>
 </ul>
 
-Feel free to drop me an e-mail if you want to chat with me!  `pianoqwz@qq.com`
+Feel free to drop me an e-mail if you want to chat with me!  `pianoqwz@gmail.com`
 
 <h2 class="col">
 <font color=blue>Open project</font>
@@ -47,7 +47,5 @@ Feel free to drop me an e-mail if you want to chat with me!  `pianoqwz@qq.com`
 
 <ul>
     <li>Ping Pong. I am a member and referee of our department's ping pong team.</li>
-    <li>Playing Guitar. I play both electric and acoustic guitar and enjoy various styles of music, including RnB, Soul, Jazz, ... I am a fan of Stevie Wonder and Mateus Asato.</li>
+    <li>Playing Guitar. I play both electric and acoustic guitar and enjoy various styles of music, including RnB, Soul, Jazz. I am a fan of Stevie Wonder and Mateus Asato.</li>
 </ul>
-
-()

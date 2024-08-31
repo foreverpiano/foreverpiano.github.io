@@ -21,7 +21,7 @@ repository               : "foreverpiano/foreverpiano.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Hangliang Ding"
   pronouns         : # example: "she/her"  
   bio              : "丁杭亮 in Chinese"
