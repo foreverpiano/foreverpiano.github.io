@@ -45,5 +45,5 @@ My research interest focuses on building hardware-efficient and reliable machine
 
 <ul>
     <li>Ping Pong. I am a member and referee of our department's ping pong team.</li>
-    <li>Playing Guitar. I play both electric and acoustic guitar and enjoy various styles of music, including RnB, Soul, Jazz. I am a fan of Stevie Wonder and Mateus Asato.</li>
+    <li>Playing Guitar. I play both electric and acoustic guitar and enjoy various styles of music, including R&B, Soul, Jazz. I am a fan of <a href="https://www.youtube.com/channel/UCGD7CfG3JgZF52QpIRivV1Q">Stevie Wonder </a> and <a href="https://www.youtube.com/@MateusAsato"> Mateus Asato</a>.</li>
 </ul>
