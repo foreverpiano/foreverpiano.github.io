@@ -20,7 +20,7 @@ My research interest focuses on building hardware-efficient and reliable machine
     <li>Efficient serving system for large foundation models</li>
 </ul>
 
-<b> <span style="color: red;">I am applying for the 2025 Fall Ph.D. program in Computer Science focused on language models and systems. Please reach out if you think I am a good candidate!  </span> </b> `pianoqwz@gmail.com`
+<span style="color: red;">I am applying for the 2025 Fall Ph.D. program in Computer Science focused on maching learning and systems. Please reach out if you think I am a good candidate!  </span> `pianoqwz@gmail.com`
 
 <h2 class="col">
 <font color=blue>Open project</font>
