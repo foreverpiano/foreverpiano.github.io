@@ -11,9 +11,7 @@ redirect_from:
 <font color=blue>Biography</font>
 </h2>
 
-I'm a fourth year undergraduate student major in theoretical and applied mechanics from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>.  I am also an applicant for the 2025 Fall Ph.D. program in Computer Science. 
-
-I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(THU) in the past.
+I'm a fourth year undergraduate student major in theoretical and applied mechanics from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(THU) in the past.
 
 My research interest focuses on building hardware-efficient and reliable machine learning systems, specifically in the following topics:
 <ul>
@@ -22,7 +20,7 @@ My research interest focuses on building hardware-efficient and reliable machine
     <li>Efficient serving system for large foundation models</li>
 </ul>
 
-Feel free to drop me an e-mail if you want to chat with me!  `pianoqwz@gmail.com`
+<b> <span style="color: red;">I am applying for the 2025 Fall Ph.D. program in Computer Science focused on language models and systems. Please reach out if you think I am a good candidate!  </span> </b> `pianoqwz@gmail.com`
 
 <h2 class="col">
 <font color=blue>Open project</font>
@@ -33,7 +31,7 @@ Feel free to drop me an e-mail if you want to chat with me!  `pianoqwz@gmail.com
 <h3><a href="https://github.com/THUDM/AgentBench" style="text-decoration: none;"><span class="emph">AgentBench: Evaluating LLMs as Agents</span></a></h3>
 </div>
 
-<div><a href="#" style="text-decoration: none;">@Intern at Zhipu AI</a>
+<div><a style="text-decoration: none;">@Intern at Zhipu AI</a>
 </div>
 
 <ul>
