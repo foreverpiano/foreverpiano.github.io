@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Hangliang Ding"
   pronouns         : # example: "she/her"  
-  bio              : "丁杭亮 in Chinese"
+  bio              : # "丁杭亮 in Chinese"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/foreverpiano"
+  zhihu            : # "https://www.zhihu.com/people/foreverpiano"
   wechat           : "wechat-qrcode.jpg"
 
 
