@@ -18,7 +18,7 @@ My research interests focus on building **efficient** and **reliable** ML system
 I'm always excited to exchange ideas and collaborate on research! Whether you have questions about my work or want to explore potential collaborations, please do not hesitate to contact me via email at any time.
 
 
-Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #0366d6; text-decoration: none; border-bottom: 1px solid #0366d6;">pianoqwz@gmail.com</a>.
+Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #52ADC8; text-decoration: none; border-bottom: 1px solid #52ADC8;">pianoqwz@gmail.com</a>.
 
 <h2 class="col">
 <font color=blue>Projects</font>
@@ -60,7 +60,7 @@ Authors: A. Sharma, **H. Ding**, J. Li, D. Neel, M. Zhang. &emsp;
 
 
 <ul>
-    <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #0366d6; text-decoration: underline;">AgentBench</a>, <strong>ICLR 2024</strong>, ⭐ 2.3k+
+    <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #52ADC8; text-decoration: underline;">AgentBench</a>, <strong>ICLR 2024</strong>, ⭐ 2.3k+
     <li>I classified real-world browsing options and designed auto-collected browsing traces data framework, building a more efficient language model-driven automated web navigation agent.</li>
     </li>
 </ul>
@@ -71,5 +71,5 @@ Authors: A. Sharma, **H. Ding**, J. Li, D. Neel, M. Zhang. &emsp;
 
 <ul>
     <li>Ping Pong. I am a member and referee of our department's ping pong team.</li>
-    <li>Playing Guitar. I am the lead guitarist of Prime Numbers (素数), a math rock band active in Beijing. Check out our recent <a href="https://www.bilibili.com/video/BV1Lqi6YqExg/" style="color: #0366d6; text-decoration: underline;">live performance</a> at Susu Lab.</li>
+    <li>Playing Guitar. I am the lead guitarist of Prime Numbers (素数), a math rock band active in Beijing. Check out our recent <a href="https://www.bilibili.com/video/BV1Lqi6YqExg/" style="color: #52ADC8; text-decoration: underline;">live performance</a> at Susu Lab.</li>
 </ul>
