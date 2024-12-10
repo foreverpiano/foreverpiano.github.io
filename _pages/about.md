@@ -39,7 +39,7 @@ We discover ***Attention Tile*** pattern in 3D-DiT and develop an efficient vide
 </div>
 
 Authors: A. Sharma, **H. Ding**, J. Li, D. Neel, M. Zhang. &emsp; 
-[Arxiv](https://arxiv.org/abs/2411.18077) available
+[Arxiv](https://arxiv.org/abs/2411.18077) available.
 <br>
 
 
@@ -56,7 +56,7 @@ Authors: A. Sharma, **H. Ding**, J. Li, D. Neel, M. Zhang. &emsp;
 </div>
 
 <div><a style="text-decoration: none;">@Zhipu AI</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Beijing, China; March 2023 - Jan. 2024</font>
+<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Beijing, China; March 2023 - Jan. 2024</font>
 
 
 <ul>
