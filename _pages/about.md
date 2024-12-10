@@ -24,28 +24,6 @@ Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #52ADC8; text-deco
 <font color=blue>Projects</font>
 </h2>
 
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile</span> </a></h3>
-</div>
-
-Authors: **H. Ding**, D. Li, R. Su, Z. Deng, I. Stoica, H. Zhang.
-<br>
-
-We discover ***Attention Tile*** pattern in 3D-DiT and develop an efficient video diffusion pipeline that achieves 7.8× speedup on single GPU through consistency distillation and layer-wise profiling, with only 1% pretraining FLOP.
-
-
-<div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">MiniKV: 2-Bit Layer-Discriminative KV Cache Compression</span> </a></h3>
-</div>
-
-Authors: A. Sharma, **H. Ding**, J. Li, D. Neel, M. Zhang. &emsp; 
-[Arxiv](https://arxiv.org/abs/2411.18077) available.
-<br>
-
-
-**MiniKV** introduces a layer-discriminative framework that achieves 86% KV cache compression using 2-bit quantization and specialized CUDA flash-attention kernels, while maintaining 98.5% accuracy.
-
-
 <div style="display: flex; align-items: center;">
 
 <div style="flex-shrink: 0; margin-right: 20px;">
@@ -70,7 +48,7 @@ H. Ding, D. Li, R. Su, Z. Deng, I. Stoica, H. Zhang
 
 <div style="font-size: 14px; margin-bottom: 10px;">
 
-We discover <i>Attention Tile</i> pattern in 3D-DiT and develop an efficient video diffusion pipeline that achieves 7.8× speedup on single GPU through consistency distillation and layer-wise profiling, with only 1% pretraining FLOP.
+We discover <b><i>Attention Tile</i></b>   pattern in 3D-DiT and develop an efficient video diffusion pipeline that achieves 7.8× speedup on single GPU through consistency distillation and layer-wise profiling, with only 1% pretraining FLOP.
 
 </div>
 
@@ -109,7 +87,7 @@ A. Sharma, H. Ding, J. Li, D. Neel, M. Zhang
 <div style="font-size: 14px; margin-top: 10px;">
 
 
-<a href="https://arxiv.org/abs/2411.18077" style="text-decoration: none; color: #52ADC8;">[Arxiv]</a> available.
+<a href="https://arxiv.org/abs/2411.18077" style="text-decoration: none; color: #52ADC8;">Arxiv</a> available.
 
 </div>
 
