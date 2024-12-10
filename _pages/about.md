@@ -18,7 +18,7 @@ My research interests focus on building **efficient** and **reliable** ML system
 I'm always excited to exchange ideas and collaborate on research! Whether you have questions about my work or want to explore potential collaborations, please do not hesitate to contact me via email at any time.
 
 
-Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #0366d6; text-decoration: none; border-bottom: 1px solid #0366d6;">pianoqwz@gmail.com</a>
+Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #0366d6; text-decoration: none; border-bottom: 1px solid #0366d6;">pianoqwz@gmail.com</a>.
 
 <h2 class="col">
 <font color=blue>Projects</font>
@@ -56,7 +56,7 @@ Authors: A. Sharma, **H. Ding**, J. Li, D. Neel, M. Zhang. &emsp;
 </div>
 
 <div><a style="text-decoration: none;">@Zhipu AI</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Beijing, China; March 2023 - Jan. 2024</font>
+<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Beijing, China; March 2023 - Jan. 2024</font>
 
 
 <ul>
