@@ -43,7 +43,7 @@ Authors: A. Sharma, **H. Ding**, J. Li, D. Neel, M. Zhang. &emsp;
 <br>
 
 
-MiniKV introduces a layer-discriminative framework that achieves 86% KV cache compression using 2-bit quantization and specialized CUDA flash-attention kernels, while maintaining 98.5% accuracy.
+**MiniKV** introduces a layer-discriminative framework that achieves 86% KV cache compression using 2-bit quantization and specialized CUDA flash-attention kernels, while maintaining 98.5% accuracy.
 
 
 <h2 class="col">
@@ -56,19 +56,20 @@ MiniKV introduces a layer-discriminative framework that achieves 86% KV cache co
 </div>
 
 <div><a style="text-decoration: none;">@Zhipu AI</a>
-<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Beijing, China; March 2023 - Jan. 2024</font>
+<font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Beijing, China; March 2023 - Jan. 2024</font>
 
 
-- Project: [AgentBench](https://github.com/THUDM/AgentBench), **ICLR 2024**, ⭐ 2300+.
-
-- I classified real-world browsing options and designed auto-collected browsing traces data framework, building a more
-efficient language model-driven automated web navigation agent.
-
+<ul>
+    <li><strong>Project:</strong> <a href="https://github.com/THUDM/AgentBench" style="color: #000000; text-decoration: underline;">AgentBench</a>, <strong>ICLR 2024</strong>, ⭐ 2.3k+
+    <li>I classified real-world browsing options and designed auto-collected browsing traces data framework, building a more efficient language model-driven automated web navigation agent.</li>
+    </li>
+</ul>
 
 <h2 class="col">
 <font color=blue>Hobbies</font>
 </h2>
 
-- **Ping Pong.** I am a member and referee of our department's ping pong team.
-
-- **Playing Guitar.** I am the guitarist of Susu (素数), a math rock band active in Beijing. Check out our recent [live performance](https://www.bilibili.com/video/BV1Lqi6YqExg/) at Susu Lab.
+<ul>
+    <li><strong>Ping Pong.</strong> I am a member and referee of our department's ping pong team.</li>
+    <li><strong>Playing Guitar.</strong> I am the lead guitarist of Prime Numbers (素数), a math rock band active in Beijing. Check out our recent <a href="https://www.bilibili.com/video/BV1Lqi6YqExg/" style="color: #000000; text-decoration: underline;">live performance</a> at Susu Lab.</li>
+</ul>
