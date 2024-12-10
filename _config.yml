@@ -76,7 +76,7 @@ author:
 
 
 # Site Settings
-logo                     : "images/site-logo.png"
+logo                     : "images/site-logo.jpg"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

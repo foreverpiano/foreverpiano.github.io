@@ -31,7 +31,7 @@ Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #0366d6; text-deco
 Authors: **H. Ding**, D. Li, R. Su, Z. Deng, I. Stoica, H. Zhang.
 <br>
 
-We discover *Attention Tile* pattern in 3D-DiT and develop an efficient video diffusion pipeline that achieves 7.8× speedup on single GPU through consistency distillation and layer-wise profiling, with only 1% pretraining FLOP.
+We discover ***Attention Tile*** pattern in 3D-DiT and develop an efficient video diffusion pipeline that achieves 7.8× speedup on single GPU through consistency distillation and layer-wise profiling, with only 1% pretraining FLOP.
 
 
 <div class="section-text col-right">
@@ -60,7 +60,7 @@ Authors: A. Sharma, **H. Ding**, J. Li, D. Neel, M. Zhang. &emsp;
 
 
 <ul>
-    <li><strong>Project:</strong> <a href="https://github.com/THUDM/AgentBench" style="color: #000000; text-decoration: underline;">AgentBench</a>, <strong>ICLR 2024</strong>, ⭐ 2.3k+
+    <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #000000; text-decoration: underline;">AgentBench</a>, <strong>ICLR 2024</strong>, ⭐ 2.3k+
     <li>I classified real-world browsing options and designed auto-collected browsing traces data framework, building a more efficient language model-driven automated web navigation agent.</li>
     </li>
 </ul>
@@ -70,6 +70,6 @@ Authors: A. Sharma, **H. Ding**, J. Li, D. Neel, M. Zhang. &emsp;
 </h2>
 
 <ul>
-    <li><strong>Ping Pong.</strong> I am a member and referee of our department's ping pong team.</li>
-    <li><strong>Playing Guitar.</strong> I am the lead guitarist of Prime Numbers (素数), a math rock band active in Beijing. Check out our recent <a href="https://www.bilibili.com/video/BV1Lqi6YqExg/" style="color: #000000; text-decoration: underline;">live performance</a> at Susu Lab.</li>
+    <li>Ping Pong. I am a member and referee of our department's ping pong team.</li>
+    <li>Playing Guitar. I am the lead guitarist of Prime Numbers (素数), a math rock band active in Beijing. Check out our recent <a href="https://www.bilibili.com/video/BV1Lqi6YqExg/" style="color: #000000; text-decoration: underline;">live performance</a> at Susu Lab.</li>
 </ul>
