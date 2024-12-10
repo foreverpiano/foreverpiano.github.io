@@ -46,6 +46,77 @@ Authors: A. Sharma, **H. Ding**, J. Li, D. Neel, M. Zhang. &emsp;
 **MiniKV** introduces a layer-discriminative framework that achieves 86% KV cache compression using 2-bit quantization and specialized CUDA flash-attention kernels, while maintaining 98.5% accuracy.
 
 
+<div style="display: flex; align-items: center;">
+
+<div style="flex-shrink: 0; margin-right: 20px;">
+
+<img src="../images/vdit.png" alt="Efficient-vDiT Illustration" style="max-width: 300px;">
+
+</div>
+
+<div>
+
+<h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+
+Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile
+
+</h3>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+H. Ding, D. Li, R. Su, Z. Deng, I. Stoica, H. Zhang
+
+</div>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+We discover <i>Attention Tile</i> pattern in 3D-DiT and develop an efficient video diffusion pipeline that achieves 7.8× speedup on single GPU through consistency distillation and layer-wise profiling, with only 1% pretraining FLOP.
+
+</div>
+
+</div>
+
+</div>
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex-shrink: 0; margin-right: 20px;">
+
+<img src="../images/minikv.png" alt="MiniKV Illustration" style="max-width: 300px;">
+
+</div>
+
+<div>
+
+<h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+
+MiniKV: 2-Bit Layer-Discriminative KV Cache Compression
+
+</h3>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+A. Sharma, H. Ding, J. Li, D. Neel, M. Zhang
+
+</div>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+<b>MiniKV</b> introduces a layer-discriminative framework that achieves 86% KV cache compression using 2-bit quantization and specialized CUDA flash-attention kernels, while maintaining 98.5% accuracy.
+
+</div>
+
+<div style="font-size: 14px; margin-top: 10px;">
+
+
+<a href="https://arxiv.org/abs/2411.18077" style="text-decoration: none; color: #52ADC8;">[Arxiv]</a> available.
+
+</div>
+
+</div>
+
+</div>
+
 <h2 class="col">
 <font color=blue>Industrial Experiences</font>
 </h2>
