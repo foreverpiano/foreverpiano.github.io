@@ -42,7 +42,7 @@ Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile
 
 <div style="font-size: 14px; margin-bottom: 10px;">
 
-H. Ding, D. Li, R. Su, Z. Deng, I. Stoica, H. Zhang
+<b>H. Ding</b>, D. Li, R. Su, Z. Deng, I. Stoica, H. Zhang
 
 </div>
 
@@ -74,7 +74,7 @@ MiniKV: 2-Bit Layer-Discriminative KV Cache Compression
 
 <div style="font-size: 14px; margin-bottom: 10px;">
 
-A. Sharma, H. Ding, J. Li, D. Neel, M. Zhang
+A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 
 </div>
 
