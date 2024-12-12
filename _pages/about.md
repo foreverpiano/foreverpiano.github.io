@@ -13,7 +13,7 @@ redirect_from:
 
 I'm a fourth year undergraduate student major in theoretical and applied mechanics from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(THU) in the past.
 
-My research interests focus on building **efficient** and **reliable** ML systems through system and algorithm co-design. Recently, I am actively looking into Diffusion / MLLM / O1 model efficiency challenges and system bottlenecks.
+My research interests focus on building **efficient** and **reliable** ML systems through system and algorithm co-design, focusing on efficiency, reliability, and scalability. Also,  I aim to explore real-world applications, making these systems truly impactful and accessible for humans. Recently, I am actively looking into Diffusion / MLLM / O1 model efficiency challenges and system bottlenecks.
 
 I'm always excited to exchange ideas and collaborate on research! Whether you have questions about my work or want to explore potential collaborations, please do not hesitate to contact me via email at any time.
 
