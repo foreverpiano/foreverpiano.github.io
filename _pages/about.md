@@ -42,7 +42,7 @@ Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile
 
 <div style="font-size: 14px; margin-bottom: 10px;">
 
-<b>H. Ding</b>, D. Li, R. Su, Z. Deng, I. Stoica, H. Zhang
+<b>H. Ding</b>\*, D. Li\*, R. Su, Z. Deng, I. Stoica, H. Zhang
 
 </div>
 
