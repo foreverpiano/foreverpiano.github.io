@@ -129,7 +129,7 @@ A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 
 <ul>
     <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #52ADC8; text-decoration: underline;">AgentBench</a>, <strong>ICLR 2024</strong>, <img src="https://img.shields.io/github/stars/THUDM/Agentbench?style=social" alt="AgentBench stars">
-    <li>I classified real-world browsing options and designed auto-collected browsing traces data framework, building a more efficient language model-driven automated web navigation agent.</li>
+    <li>Classify real-world browsing options and design auto-collected browsing traces data framework, building a more efficient language model-driven automated web navigation agent.</li>
     </li>
 </ul>
 
