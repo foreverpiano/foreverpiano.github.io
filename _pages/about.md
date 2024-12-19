@@ -21,6 +21,14 @@ I'm always excited to exchange ideas and collaborate on research! Whether you ha
 Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #52ADC8; text-decoration: none; border-bottom: 1px solid #52ADC8;">pianoqwz@gmail.com</a>.
 
 <h2 class="col">
+<font color=blue>News</font>
+</h2>
+
+- 2024-12 Release <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a> the first open-source distillation recipes for video DiT.
+
+- 2024-11 Release <a href="https://arxiv.org/abs/2411.18077" style="color: #52ADC8; text-decoration: underline;">MiniKV</a> on the arxiv, an efficient 2-Bit layerwise KV cache compression framework.
+
+<h2 class="col">
 <font color=blue>Academic Experiences</font>
 </h2>
 
@@ -96,10 +104,21 @@ A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 </div>
 
 <h2 class="col">
-<font color=blue>Industrial Experiences</font>
+<font color=blue>Open-source Project</font>
 </h2>
 
-<!-- 1 -->
+<div class="section-text col-right">
+<h3><a href="#" style="text-decoration: none;"><span class="emph">FastVideo: Accelerate Video Diffusion Model Generation</span></a></h3>
+</div>
+
+<ul>
+    <li>Project: <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a>, <img src="https://img.shields.io/github/stars/hao-ai-lab/FastVideo?style=social" alt="AgentBench stars">
+    <li> First open distillation recipes for video DiT and support distilling and finetuning for state-of-the-art open video DiTs. </li>
+    <li> Scalable training with FSDP, sequence parallelism, and selective activation checkpointing, with near linear scaling to 64 GPUs.</li>
+    <li> Memory efficient finetuning with LoRA, precomputed latent, and precomputed text embeddings.</li>
+    </li>
+</ul>
+
 <div class="section-text col-right">
 <h3><a href="#" style="text-decoration: none;"><span class="emph">AgentBench: Evaluating LLMs as Agents</span></a></h3>
 </div>
@@ -109,7 +128,7 @@ A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 
 
 <ul>
-    <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #52ADC8; text-decoration: underline;">AgentBench</a>, <strong>ICLR 2024</strong>, ⭐ 2.3k+
+    <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #52ADC8; text-decoration: underline;">AgentBench</a>, <strong>ICLR 2024</strong>, <img src="https://img.shields.io/github/stars/THUDM/Agentbench?style=social" alt="AgentBench stars">
     <li>I classified real-world browsing options and designed auto-collected browsing traces data framework, building a more efficient language model-driven automated web navigation agent.</li>
     </li>
 </ul>
