@@ -26,7 +26,7 @@ Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #52ADC8; text-deco
 
 - 2024-12 Release <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a> the first open-source distillation recipes for video DiT.
 
-- 2024-11 Release <a href="https://arxiv.org/abs/2411.18077" style="color: #52ADC8; text-decoration: underline;">MiniKV</a> on the arxiv, an efficient 2-Bit layer-wise KV cache compression framework.
+- 2024-11 Introducing <a href="https://arxiv.org/abs/2411.18077" style="color: #52ADC8; text-decoration: underline;">MiniKV</a>, an efficient 2-Bit layer-wise KV cache compression framework.
 
 <h2 class="col">
 <font color=blue>Academic Experiences</font>
