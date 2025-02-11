@@ -62,6 +62,12 @@ We discover <b><i>Attention Tile</i></b> pattern in 3D-DiT and develop an effici
 
 </div>
 
+<div style="font-size: 14px; margin-top: 10px;">
+
+<a href="https://arxiv.org/abs/2502.06155" style="text-decoration: none; color: #52ADC8;">Arxiv</a> available.
+
+</div>
+
 </div>
 
 </div>
