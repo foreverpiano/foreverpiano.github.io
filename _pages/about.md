@@ -24,9 +24,11 @@ Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #52ADC8; text-deco
 <font color=blue>News</font>
 </h2>
 
-- 2024-12 Release <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a> the first open-source distillation recipes for video DiT.
+- 2025-02 Released <a href="https://arxiv.org/abs/2502.06155" style="color: #52ADC8; text-decoration: underline;"> Efficient-vDiT</a> and <a href="https://arxiv.org/abs/2502.04507" style="color: #52ADC8; text-decoration: underline;"> STA</a>, an acceleration pipeline and fast kernel design for video diffusion models。
 
-- 2024-11 Introducing <a href="https://arxiv.org/abs/2411.18077" style="color: #52ADC8; text-decoration: underline;">MiniKV</a>, an efficient 2-bit layerwise <i>KV cache</i> compression framework.
+- 2024-12 Released  <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a> the first open-source distillation recipes for video DiT.
+
+- 2024-11 Introduced <a href="https://arxiv.org/abs/2411.18077" style="color: #52ADC8; text-decoration: underline;">MiniKV</a>, an efficient 2-bit layerwise <i>KV cache</i> compression framework.
 
 <h2 class="col">
 <font color=blue>Academic Experiences</font>
