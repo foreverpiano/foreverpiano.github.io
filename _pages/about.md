@@ -24,7 +24,11 @@ Email me at <a href="mailto:pianoqwz@gmail.com" style="color: #52ADC8; text-deco
 <font color=blue>News</font>
 </h2>
 
-- 2025-02 Released <a href="https://arxiv.org/abs/2502.06155" style="color: #52ADC8; text-decoration: underline;"> Efficient-vDiT</a> and <a href="https://arxiv.org/abs/2502.04507" style="color: #52ADC8; text-decoration: underline;"> STA</a>, an acceleration pipeline and fast kernel design for video diffusion models。
+- 2025-05 <a href="https://arxiv.org/abs/2411.18077" style="color: #52ADC8; text-decoration: underline;">MiniKV</a> is accepted at <i>ACL'2025</i>.
+
+- 2025-04 <a href="https://arxiv.org/abs/2502.04507" style="color: #52ADC8; text-decoration: underline;">Sliding Tile Attention</a> is accepted at <i>ICML'2025</i>.
+
+- 2025-02 Released <a href="https://arxiv.org/abs/2502.06155" style="color: #52ADC8; text-decoration: underline;"> Efficient-vDiT</a> and <a href="https://arxiv.org/abs/2502.04507" style="color: #52ADC8; text-decoration: underline;"> Sliding Tile Attention</a>, an acceleration pipeline and fast kernel design for video diffusion models。
 
 - 2024-12 Released  <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a> the first open-source distillation recipes for video DiT.
 
@@ -103,7 +107,7 @@ A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 <div style="font-size: 14px; margin-top: 10px;">
 
 
-<a href="https://arxiv.org/abs/2411.18077" style="text-decoration: none; color: #52ADC8;">Arxiv</a> available.
+<b>Accepted in ACL'2025 (Findings).</b>  <a href="https://arxiv.org/abs/2411.18077" style="text-decoration: none; color: #52ADC8;">Arxiv</a> available. 
 
 </div>
 
@@ -120,8 +124,8 @@ A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 </div>
 
 <ul>
-    <li>Project: <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a>, <img src="https://img.shields.io/github/stars/hao-ai-lab/FastVideo?style=social" alt="AgentBench stars">
-    <li> First open distillation recipes for video DiT and support distilling and finetuning for state-of-the-art open video DiTs. </li>
+    <li>Project: <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a>, <img src="https://img.shields.io/github/Sliding Tile Attentionrs/hao-ai-lab/FastVideo?style=social" alt="AgentBench Sliding Tile Attentionrs">
+    <li> First open distillation recipes for video DiT and support distilling and finetuning for Sliding Tile Attentionte-of-the-art open video DiTs. </li>
     <li> Scalable training with FSDP, sequence parallelism, and selective activation checkpointing, with near linear scaling to 64 GPUs.</li>
     <li> Memory efficient finetuning with LoRA, precomputed latent, and precomputed text embeddings.</li>
     </li>
@@ -132,7 +136,7 @@ A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 </div>
 
 <ul>
-    <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #52ADC8; text-decoration: underline;">AgentBench</a>, <strong>ICLR 2024</strong>, <img src="https://img.shields.io/github/stars/THUDM/Agentbench?style=social" alt="AgentBench stars">
+    <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #52ADC8; text-decoration: underline;">AgentBench</a>, <strong>ICLR'2024</strong>, <img src="https://img.shields.io/github/Sliding Tile Attentionrs/THUDM/Agentbench?style=social" alt="AgentBench Sliding Tile Attentionrs">
     <li>Classify real-world browsing options and design auto-collected browsing traces data framework, building a more efficient language model-driven automated web navigation agent.</li>
     </li>
 </ul>
