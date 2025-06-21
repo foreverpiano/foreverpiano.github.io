@@ -68,7 +68,7 @@ We discover <b><i>Attention Tile</i></b> pattern in 3D-DiT and develop an effici
 
 <div style="font-size: 14px; margin-top: 10px;">
 
-<a href="https://arxiv.org/abs/2502.06155" style="text-decoration: none; color: #52ADC8;">Arxiv</a> available.
+<b>ICML'2025 @ Es-fomo Workshop. </b><a href="https://arxiv.org/abs/2502.06155" style="text-decoration: none; color: #52ADC8;">Arxiv</a> available.
 
 </div>
 
@@ -107,7 +107,7 @@ A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 <div style="font-size: 14px; margin-top: 10px;">
 
 
-<b>Accepted in ACL'2025 (Findings).</b>  <a href="https://arxiv.org/abs/2411.18077" style="text-decoration: none; color: #52ADC8;">Arxiv</a> available. 
+<b>ACL'2025 (Findings).</b>  <a href="https://arxiv.org/abs/2411.18077" style="text-decoration: none; color: #52ADC8;">Arxiv</a> available. 
 
 </div>
 
@@ -124,7 +124,7 @@ A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 </div>
 
 <ul>
-    <li>Project: <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a>, <img src="https://img.shields.io/github/Sliding Tile Attentionrs/hao-ai-lab/FastVideo?style=social" alt="AgentBench Sliding Tile Attentionrs">
+    <li>Project: <a href="https://github.com/hao-ai-lab/FastVideo" style="color: #52ADC8; text-decoration: underline;">FastVideo</a>, <img src="https://img.shields.io/github/stars/hao-ai-lab/FastVideo?style=social" alt="Fastvideo stars">
     <li> First open distillation recipes for video DiT and support distilling and finetuning for Sliding Tile Attentionte-of-the-art open video DiTs. </li>
     <li> Scalable training with FSDP, sequence parallelism, and selective activation checkpointing, with near linear scaling to 64 GPUs.</li>
     <li> Memory efficient finetuning with LoRA, precomputed latent, and precomputed text embeddings.</li>
@@ -136,7 +136,7 @@ A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 </div>
 
 <ul>
-    <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #52ADC8; text-decoration: underline;">AgentBench</a>, <strong>ICLR'2024</strong>, <img src="https://img.shields.io/github/Sliding Tile Attentionrs/THUDM/Agentbench?style=social" alt="AgentBench Sliding Tile Attentionrs">
+    <li>Project: <a href="https://github.com/THUDM/AgentBench" style="color: #52ADC8; text-decoration: underline;">AgentBench</a>, <strong>ICLR'2024</strong>, <img src="https://img.shields.io/github/stars/THUDM/Agentbench?style=social" alt="AgentBench stars">
     <li>Classify real-world browsing options and design auto-collected browsing traces data framework, building a more efficient language model-driven automated web navigation agent.</li>
     </li>
 </ul>
@@ -147,7 +147,7 @@ A. Sharma, <b>H. Ding</b>, J. Li, D. Neel, M. Zhang
 
 <ul>
     <li>Guitar. I am the lead guitarist of Susu (素数), a math rock band active in Beijing. Check out our recent <a href="https://www.bilibili.com/video/BV1Lqi6YqExg/" style="color: #52ADC8; text-decoration: underline;">live performance</a> at Susu Lab.</li>
-    <li>Pingong. I am a member and referee of our department's ping pong team.</li>
+    <li>Pingpong. I am a member and referee of our department's ping pong team.</li>
 </ul>
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=0e1633&w=300&t=n&d=BaGflHS_b6UVarU47t3FocXlpffDkn4PhjcsiJi4FzQ&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script>
