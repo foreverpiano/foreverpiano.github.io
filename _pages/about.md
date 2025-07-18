@@ -11,9 +11,9 @@ redirect_from:
 <font color=blue>About Me</font>
 </h2>
 
-Hey there! I’m Hangliang Ding, fourth year undergraduate student at <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(THU) in the past.
+Hey there! I’m Hangliang Ding, a recent graduate from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, now working as a **Research Scientist** at a top-tier LLM company. I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(THU) in the past.
 
-My research interests focus on building **efficient** and **reliable** ML systems through system and algorithm co-design, focusing on efficiency, reliability, and scalability. Also,  I aim to explore **real-world applications**, making these systems truly impactful and accessible for humans. Recently, I am actively looking into (M)LLM / Diffusion model efficiency challenges and system bottlenecks.
+My research focuses on the co-design of **new model architectures** and **learning algorithms** with efficient and scalable ML systems, with a particular focus on applications in long-context and multimodal agent scenarios.
 
 I'm always excited to exchange ideas and collaborate on research! Whether you have questions about my work or want to explore potential collaborations, please do not hesitate to contact me via email at any time.
 
