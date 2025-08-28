@@ -11,9 +11,9 @@ redirect_from:
 <font color=blue>About Me</font>
 </h2>
 
-Hey there! I’m Hangliang Ding, a recent graduate from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, now working as a **Research Scientist** at a top-tier LLM company. I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(THU) in the past.
+Hey there! I’m Hangliang Ding, a recent graduate from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, now working as a **Research Scientist** at Bytedance Seed. I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(THU) in the past.
 
-My research focuses on the co-design of **new model architectures** and **learning algorithms** with efficient and scalable ML systems, with a particular focus on applications in long-context and multimodal agent scenarios.
+My research focuses on the co-design of **new model architectures** and **learning algorithms** with efficient and scalable ML systems, with a particular focus on long-context and agentic scenarios.
 
 I'm always excited to exchange ideas and collaborate on research! Whether you have questions about my work or want to explore potential collaborations, please do not hesitate to contact me via email at any time.
 
