@@ -1,0 +1,10 @@
+# Local agent caches
+.humanize/
+.claude/
+
+# Editor + OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
